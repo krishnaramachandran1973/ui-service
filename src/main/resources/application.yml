@@ -1,0 +1,6 @@
+server:
+  port: 8001
+ui:
+  search-url: http://localhost:8090/search
+  booking-url: http://localhost:8060/booking
+  check-in-url: http://localhost:8070/checkin  
